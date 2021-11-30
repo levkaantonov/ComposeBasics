@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ComposeBasics</string>
+    <string name="button_text_show_less">Show less</string>
+    <string name="button_text_show_more">Show more</string>
 </resources>
